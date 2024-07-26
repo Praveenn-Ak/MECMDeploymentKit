@@ -39,7 +39,7 @@ To maintain a smooth and error-free deployment process, the following conditions
    - Choose from applications, packages, or task sequences.
 
 2. **Choose the Target Collection**
-   - Select either a user collection or a device collection for the deployment. (There is a checkbox to beenabled for user collection)
+   - Select either a user collection or a device collection for the deployment. (There is a checkbox to be enabled for user collection)
      
 3. **Adhere to Conditions**
    - Ensure that no default collections are used, and validate collections for required deployments.
