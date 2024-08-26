@@ -53,8 +53,8 @@ if (Test-Path -Path $ConfigFilesource) {
     </MECMSettings>
     <EmailSettings>
         <SMTPServer>App-mail.abc.corp.bce.ca</SMTPServer>
-        <FromAddress>MECM_Automation@bell.com</FromAddress>
-        <CCAddress>abc.SCCM.Ops.IN@cgi.com</CCAddress>
+        <FromAddress>MECM_Automation@bac.com</FromAddress>
+        <CCAddress>abc.SCCM.Ops.IN@bac.com</CCAddress>
         <BCCAddress></BCCAddress>
     </EmailSettings>
     <ToolSettings>
